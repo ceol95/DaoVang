@@ -18,6 +18,7 @@ public class Actor {
 
     private int x;
     private int y;
+    private int z;
     private Image image;
     
     public Actor(int x, int y) {
